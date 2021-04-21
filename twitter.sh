@@ -16,7 +16,7 @@ REMOTE_FILEPATH_DEVICE="/sdcard/twitter_sc"
 
 
 # APK DOWNLOAD URL
-APK_DOWNLOAD_URL="https://mutti.es/index.php/s/guO1Wmvvhf8Z0BQ/download"
+APK_DOWNLOAD_URL=""
 APK_TMP_PATH="/tmp/twitter.apk"
 
 # TWITTER RELATED STRINGS
